@@ -13,11 +13,6 @@ This Sorting Visualizer is a web-based application that allows user to visualize
 - HTML, CSS, and JavaScript for the front-end implementation.
 - Responsive design to ensure compatibility across various devices and screen sizes.
 
-Getting Started:
-1. Clone the repository: `git clone https://github.com/your-username/sorting-visualizer.git`
-2. Open the index.html file in your web browser.
-3. Choose a sorting algorithm and click the "Reset" button to see it in action.
-4. Adjust the array size and speed settings to modify the visualization in JavaScript
 
 Contributing:
 Contributions are welcome! If you find any bugs, have suggestions for improvements, or would like to add new sorting algorithms, feel free to open an issue or submit a pull request.
